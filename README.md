@@ -1,5 +1,5 @@
 # HSF
 Hacking Santa Fe
 
-##Introduction
+## Introduction
 Practice for Git
